@@ -1,0 +1,13 @@
+{
+  "name": "raf-debounce",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "raf": "2.0.4"
+  },
+  "devDependencies": {
+    "babel": "5.2.15",
+    "babelify": "6.0.2",
+    "browserify": "10.1.0"
+  }
+}

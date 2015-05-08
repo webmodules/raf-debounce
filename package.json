@@ -2,6 +2,7 @@
   "name": "raf-debounce",
   "version": "0.1.0",
   "description": "",
+  "main": "./node/index",
   "dependencies": {
     "raf": "2.0.4"
   },
